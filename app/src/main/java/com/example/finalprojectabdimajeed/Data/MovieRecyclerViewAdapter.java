@@ -18,7 +18,7 @@ import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
-
+//comment for commit
 
 public class MovieRecyclerViewAdapter extends RecyclerView.Adapter<MovieRecyclerViewAdapter.ViewHolder> {
 
